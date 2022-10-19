@@ -9,7 +9,7 @@ public class Squirrel{
     double iqDouble;
 
     // constructor
-    public Squirrel(String newColourString, String newSizeString, int newInt, int newNutCount, double newIQdouble){
+    public Squirrel(String newColourString, String newSizeString, int newNutCount, double newIQdouble){
         this.aliveBoolean = true;
         this.colourString = newColourString;
         this.SizeString = newSizeString;
